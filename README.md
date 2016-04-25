@@ -1,4 +1,4 @@
 # chip
-record pieces of notes
+record pieces of notes 111
 
-for hello-worl
+//for hello-worl
